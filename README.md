@@ -5,7 +5,6 @@
 <br>
 <p align="center">
 I'm Mason.<br>
-<br>
 beginning is always small <br> but one of my hope that is keep developing myself.✨
 </p>
 <br>
