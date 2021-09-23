@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=00A19D&height=100&section=header&text=Mason%20Na&fontColor=FFF8E5&animation=blink&fontSize=30)
   
 <br>
-<h3 align="center"> 👋 &nbsp Hi there 👋 </h3>
+<h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Mason.<br>
 beginning is always small but one of my hope that is keep developing myself.✨
