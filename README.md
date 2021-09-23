@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=00A19D&height=150&section=header&text=Mason%20Na&fontColor=FFF8E5&animation=blink&fontSize=40)
 
 <br>
-<br>
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Mason.<br>
@@ -33,4 +32,4 @@ beginning is always small but one of my hope that is keep developing myself.✨
 </p>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=footer)
