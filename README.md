@@ -32,4 +32,4 @@ beginning is always small but one of my hope that is keep developing myself.✨
 </p>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=40&section=footer)
