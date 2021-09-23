@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=00A19D&height=150&section=header&text=Mason%20Na&fontColor=FFF8E5&animation=blink&fontSize=40)
+
 <br>
 <br>
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -31,4 +32,5 @@ beginning is always small but one of my hope that is keep developing myself.✨
   <a href="https://bohemianmoon5.github.io"><img src="https://img.shields.io/badge/blog-6D8299?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 <br>
-![footer](https://capsule-render.vercel.app/api?type=rounded&color=00A19D&height=100&section=footer) 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
