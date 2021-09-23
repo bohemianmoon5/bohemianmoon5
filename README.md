@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=00A19D&height=200&section=header&text=Mason%20Na&fontColor=FFF8E5&animation=blink&fontSize=50)
-
+<br>
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Mason.<br>
 beginning is always small but one of my hope that is keep developing myself.✨
 </p>
-
+<br>
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
-<h4 aligh="center"> Techs that I've used at least once. </h4>
+<h4 align="center"> Techs that I've used at least once. </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-3766AB?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
@@ -25,7 +25,7 @@ beginning is always small but one of my hope that is keep developing myself.✨
   <br>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>&nbsp
 </p>
-
+<br>
 <h3 align="center">•••</h3>
 <p align="center">
   <a href="https://bohemianmoon5.github.io"><img src="https://img.shields.io/badge/blog-6D8299?style=flat-square&logo=Blogger&logoColor=white"/></a>
