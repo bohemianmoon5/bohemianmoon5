@@ -5,7 +5,7 @@
 <br>
 <p align="center">
 I'm Mason.<br>
-beginning is always small but one of my hope that is keep developing myself.✨
+beginning is always small <br> but one of my hope that is keep developing myself.✨
 </p>
 <br>
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
