@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=00A19D&height=300&section=header&text=Mason%20Na&fontColor=FFF8E5&animation=blink&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=00A19D&height=100&section=header&text=Mason%20Na&fontColor=FFF8E5&animation=blink&fontSize=30)
   
 <br>
 <h3 align="center"> 👋 Hi there 👋 </h3>
