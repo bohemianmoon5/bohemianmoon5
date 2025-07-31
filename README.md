@@ -29,7 +29,7 @@ beginning is always small <br> but one of my hope that is keep developing myself
 </p>
 <h3 align="center">•••</h3>
 <p align="center">
-  <a href="https://bohemianmoon5.github.io"><img src="https://img.shields.io/badge/blog-6D8299?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://bohemianmoon5.vercel.app/"><img src="https://img.shields.io/badge/blog-6D8299?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 <br>
 
