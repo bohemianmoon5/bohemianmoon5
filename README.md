@@ -23,9 +23,9 @@ beginning is always small <br> but one of my hope that is keep developing myself
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>&nbsp
 </p>
 <h3 align="center">•••</h3>
 <p align="center">
